@@ -1,0 +1,71 @@
+question_id,pair_id,language,category,question_text,target_brand
+reco_fr_01,reco_01,fr,recommandation_directe,"Quel outil SEO recommandes-tu pour une petite entreprise ?",
+reco_en_01,reco_01,en,recommandation_directe,"What SEO tool would you recommend for a small business?",
+reco_fr_02,reco_02,fr,recommandation_directe,"Quel outil SEO conseillerais-tu à un freelance qui débute ?",
+reco_en_02,reco_02,en,recommandation_directe,"What SEO tool would you recommend for a freelancer just starting out?",
+reco_fr_03,reco_03,fr,recommandation_directe,"Quel est le meilleur outil SEO pour un site e-commerce ?",
+reco_en_03,reco_03,en,recommandation_directe,"What is the best SEO tool for an e-commerce website?",
+reco_fr_04,reco_04,fr,recommandation_directe,"Je débute en SEO, quel outil dois-je utiliser en premier ?",
+reco_en_04,reco_04,en,recommandation_directe,"I'm new to SEO, which tool should I use first?",
+reco_fr_05,reco_05,fr,recommandation_directe,"Quel outil SEO recommandes-tu pour une agence marketing ?",
+reco_en_05,reco_05,en,recommandation_directe,"What SEO tool would you recommend for a marketing agency?",
+reco_fr_06,reco_06,fr,recommandation_directe,"Quel outil SEO conseillerais-tu à une grande entreprise ?",
+reco_en_06,reco_06,en,recommandation_directe,"What SEO tool would you recommend for a large enterprise?",
+reco_fr_07,reco_07,fr,recommandation_directe,"Quel est le meilleur outil SEO pour gérer un blog ?",
+reco_en_07,reco_07,en,recommandation_directe,"What is the best SEO tool for managing a blog?",
+reco_fr_08,reco_08,fr,recommandation_directe,"Quel outil SEO recommandes-tu pour une startup avec un petit budget ?",
+reco_en_08,reco_08,en,recommandation_directe,"What SEO tool would you recommend for a startup on a small budget?",
+reco_fr_09,reco_09,fr,recommandation_directe,"Quel outil SEO conseillerais-tu pour un commerce local ?",
+reco_en_09,reco_09,en,recommandation_directe,"What SEO tool would you recommend for a local business?",
+reco_fr_10,reco_10,fr,recommandation_directe,"Quel est le meilleur outil SEO pour une entreprise B2B SaaS ?",
+reco_en_10,reco_10,en,recommandation_directe,"What is the best SEO tool for a B2B SaaS company?",
+comp_fr_01,comp_01,fr,comparaison,"Semrush ou Ahrefs, lequel choisir ?",Semrush;Ahrefs
+comp_en_01,comp_01,en,comparaison,"Semrush vs Ahrefs, which one should I pick?",Semrush;Ahrefs
+comp_fr_02,comp_02,fr,comparaison,"Surfer SEO ou Search Atlas, lequel est le plus adapté à la création de contenu ?",Surfer SEO;Search Atlas
+comp_en_02,comp_02,en,comparaison,"Surfer SEO vs Search Atlas, which one is better for content creation?",Surfer SEO;Search Atlas
+comp_fr_03,comp_03,fr,comparaison,"SE Ranking ou Nightwatch, lequel choisir pour suivre son positionnement ?",SE Ranking;Nightwatch
+comp_en_03,comp_03,en,comparaison,"SE Ranking vs Nightwatch, which one should I choose for rank tracking?",SE Ranking;Nightwatch
+comp_fr_04,comp_04,fr,comparaison,"Moz ou Semrush, lequel a les meilleures fonctionnalités ?",Moz;Semrush
+comp_en_04,comp_04,en,comparaison,"Moz vs Semrush, which one has better features?",Moz;Semrush
+comp_fr_05,comp_05,fr,comparaison,"Ahrefs ou Screaming Frog, lequel pour un audit technique complet ?",Ahrefs;Screaming Frog
+comp_en_05,comp_05,en,comparaison,"Ahrefs vs Screaming Frog, which one for a full technical audit?",Ahrefs;Screaming Frog
+comp_fr_06,comp_06,fr,comparaison,"Conductor ou Semrush, lequel choisir pour une grande organisation ?",Conductor;Semrush
+comp_en_06,comp_06,en,comparaison,"Conductor vs Semrush, which one should a large organization pick?",Conductor;Semrush
+comp_fr_07,comp_07,fr,comparaison,"BrightLocal ou SE Ranking, lequel pour le SEO local ?",BrightLocal;SE Ranking
+comp_en_07,comp_07,en,comparaison,"BrightLocal vs SE Ranking, which one for local SEO?",BrightLocal;SE Ranking
+comp_fr_08,comp_08,fr,comparaison,"AnswerThePublic ou Semrush, lequel pour la recherche de mots-clés ?",AnswerThePublic;Semrush
+comp_en_08,comp_08,en,comparaison,"AnswerThePublic vs Semrush, which one for keyword research?",AnswerThePublic;Semrush
+alt_fr_01,alt_01,fr,alternative,"Quelle est une alternative moins chère à Semrush ?",Semrush
+alt_en_01,alt_01,en,alternative,"What's a cheaper alternative to Semrush?",Semrush
+alt_fr_02,alt_02,fr,alternative,"Quelle alternative à Ahrefs pour l'analyse de backlinks ?",Ahrefs
+alt_en_02,alt_02,en,alternative,"What's an alternative to Ahrefs for backlink analysis?",Ahrefs
+alt_fr_03,alt_03,fr,alternative,"Quelle alternative à Screaming Frog pour le crawl d'un site ?",Screaming Frog
+alt_en_03,alt_03,en,alternative,"What's an alternative to Screaming Frog for crawling a website?",Screaming Frog
+alt_fr_04,alt_04,fr,alternative,"Existe-t-il une alternative gratuite à Moz ?",Moz
+alt_en_04,alt_04,en,alternative,"Is there a free alternative to Moz?",Moz
+alt_fr_05,alt_05,fr,alternative,"Quelle alternative à Surfer SEO pour optimiser du contenu ?",Surfer SEO
+alt_en_05,alt_05,en,alternative,"What's an alternative to Surfer SEO for content optimization?",Surfer SEO
+alt_fr_06,alt_06,fr,alternative,"Quelle alternative à Conductor pour une entreprise plus petite ?",Conductor
+alt_en_06,alt_06,en,alternative,"What's an alternative to Conductor for a smaller company?",Conductor
+alt_fr_07,alt_07,fr,alternative,"Quelle alternative à BrightLocal pour le suivi multi-établissements ?",BrightLocal
+alt_en_07,alt_07,en,alternative,"What's an alternative to BrightLocal for multi-location tracking?",BrightLocal
+usage_fr_01,usage_01,fr,cas_usage,"Quel outil pour suivre mon positionnement local sur plusieurs villes ?",
+usage_en_01,usage_01,en,cas_usage,"What tool tracks local SEO rankings across multiple cities?",
+usage_fr_02,usage_02,fr,cas_usage,"Quel outil pour faire un audit technique complet d'un site ?",
+usage_en_02,usage_02,en,cas_usage,"What tool can I use for a full technical site audit?",
+usage_fr_03,usage_03,fr,cas_usage,"Quel outil pour optimiser mes articles de blog avant publication ?",
+usage_en_03,usage_03,en,cas_usage,"What tool can I use to optimize blog posts before publishing?",
+usage_fr_04,usage_04,fr,cas_usage,"Quel outil pour faire de la recherche de mots-clés pour une petite entreprise ?",
+usage_en_04,usage_04,en,cas_usage,"What tool can I use for keyword research for a small business?",
+usage_fr_05,usage_05,fr,cas_usage,"Quel outil permet de suivre sa visibilité dans les réponses des IA génératives ?",
+usage_en_05,usage_05,en,cas_usage,"What tool tracks visibility in AI-generated search answers?",
+open_fr_01,open_01,fr,question_ouverte,"Quels sont les meilleurs outils SEO en 2026 ?",
+open_en_01,open_01,en,question_ouverte,"What are the best SEO tools in 2026?",
+open_fr_02,open_02,fr,question_ouverte,"Quels sont les meilleurs outils SEO gratuits ?",
+open_en_02,open_02,en,question_ouverte,"What are the best free SEO tools?",
+open_fr_03,open_03,fr,question_ouverte,"Quelle est la meilleure plateforme SEO tout-en-un ?",
+open_en_03,open_03,en,question_ouverte,"What is the best all-in-one SEO platform?",
+open_fr_04,open_04,fr,question_ouverte,"Quel est le meilleur outil SEO pour une agence ?",
+open_en_04,open_04,en,question_ouverte,"What is the best SEO tool for an agency?",
+open_fr_05,open_05,fr,question_ouverte,"Quel outil permet le mieux de suivre l'apparition dans les AI Overviews de Google ?",
+open_en_05,open_05,en,question_ouverte,"What tool best tracks appearance in Google AI Overviews?",
