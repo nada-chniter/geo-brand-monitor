@@ -115,4 +115,4 @@ Total cost for the full run (980 query calls + ~980 extraction calls, both on mi
 
 **About this project:** built as a hands-on case study while transitioning into AI project management, at the intersection of product, data and generative AI. Questions/feedback welcome.
 
-Nada Chniter — [Linkedin: https://www.linkedin.com/in/nada-chniter/ ] 
+Nada Chniter - [Linkedin: https://www.linkedin.com/in/nada-chniter/ ] 
